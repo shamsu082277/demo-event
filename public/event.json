@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "event_name": "Summer Party",
+      "event_image": "https://i.ibb.co/tbpyGHQ/holiday.jpg",
+      "event_price": 199,
+      "short_description": "Join us for a fun-filled summer holiday extravaganza with us and enjoy!",
+      "full_description": "Escape the heat and dive into the coolest summer holiday party in town. We have exciting games, delicious food, and a tropical beach vibe waiting for you. Don't miss out on the ultimate summer getaway with friends and family. It's a day of endless sunshine, laughter, and memories that will warm your heart for years to come."
+    },
+    {
+      "id": 2,
+      "event_name": "Masquerade Ball",
+      "event_image": "https://i.ibb.co/mqx58pN/surprise.jpg",
+      "event_price": 149,
+      "short_description": "Experience the magic of our mystery-filled masquerade ball!",
+      "full_description": "Get ready to be enchanted at our Surprise Masquerade Ball. Put on your most elegant mask and step into a world of intrigue and glamour. Enjoy a night of dancing, gourmet cuisine, and a grand reveal that will leave you in awe and create memories to cherish. It's a night where fantasy meets reality, and every moment is a dream come true."
+    },
+    {
+      "id": 3,
+      "event_name": "Birthday Celebration",
+      "event_image": "https://i.ibb.co/sPGZJ1w/birthday.jpg",
+      "event_price": 99,
+      "short_description": "Celebrate your special day with our fantastic birthday package!",
+      "full_description": "Make your birthday unforgettable with our Birthday Extravaganza package. We offer a personalized experience with a customized cake, decorations, entertainment of your choice, and a night of laughter and joy. It's a celebration that marks another year of your incredible journey and the beginning of new adventures."
+    },
+    {
+      "id": 4,
+      "event_name": "Engagement Soiree",
+      "event_image": "https://i.ibb.co/GHdwqNf/engagement.jpg",
+      "event_price": 249,
+      "short_description": "Toast to your love story at our Elegant Engagement Soiree!",
+      "full_description": "Announce your engagement in style at our Elegant Engagement Soiree. We provide a romantic setting, champagne toast, a live band to set the mood, and the opportunity to share your love with family and friends in an unforgettable evening filled with laughter and heartfelt moments. It's a night that symbolizes the beginning of your beautiful journey together."
+    },
+    {
+      "id": 5,
+      "event_name": "Enchanted Wedding",
+      "event_image": "https://i.ibb.co/KyxCm91/weeding.jpg",
+      "event_price": 499,
+      "short_description": "Say 'I do' in a fairytale setting at our Enchanted Wedding Celebration!",
+      "full_description": "Experience a fairytale wedding at our Enchanted Wedding Celebration. Our venue is adorned with flowers, and we provide a complete wedding package, including catering, photography, a dedicated wedding planner, and the promise of a day that will be etched in your hearts forever. It's the day you've always dreamed of, where love and magic unite in a celebration of a lifetime."
+    },
+    {
+      "id": 6,
+      "event_name": "Anniversary Renewal",
+      "event_image": "https://i.ibb.co/XL7bvYg/anniversaries.jpg",
+      "event_price": 149,
+      "short_description": "Rekindle your love at our Anniversary Renewal Ceremony!",
+      "full_description": "Celebrate your years of love and commitment at our Anniversary Renewal Ceremony. We provide vow renewal services, a romantic dinner, a photo session to capture your love all over again, and an evening that will reignite the sparks of your enduring love story. It's a beautiful testament to the love that grows stronger with each passing year."
+    }
+  ]
+  
